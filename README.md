@@ -16,7 +16,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone <URL репозитория>
+   git clone https://github.com/kim-nik/hexlet-habr-dec.git
    cd <имя папки репозитория>
    ```
 
